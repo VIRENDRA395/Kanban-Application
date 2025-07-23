@@ -1,0 +1,44 @@
+{
+  "boards": [
+    {
+      "id": "1",
+      "name": "Product Development",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Start the UI design for the new app",
+          "description": "We need to start the UI design for the new app",
+          "status": "todo",
+          "subtasks": [
+            {
+              "id": "1",
+              "name": "Create the mockups"
+            },
+            {
+              "id": "2",
+              "name": "Create the wireframes"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Conception of the new app",
+          "description": "We need to start the conception of the new app",
+          "status": "todo"
+        },
+        {
+          "id": "3",
+          "name": "Start the development of the new app",
+          "description": "We need to start the development of the new app",
+          "status": "todo"
+        },
+        {
+          "id": "4",
+          "name": "Test the new app",
+          "description": "We need to test the new app",
+          "status": "todo"
+        }
+      ]
+    }
+  ]
+}

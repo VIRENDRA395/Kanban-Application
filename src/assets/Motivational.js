@@ -1,0 +1,25 @@
+const Motivational = [
+  { phrase: "You can do it!" },
+  { phrase: "Keep Going" },
+  { phrase: "You Can" },
+  { phrase: "Stay Strong" },
+  { phrase: "Dream Big" },
+  { phrase: "Believe in Yourself" },
+  { phrase: "Never Give Up" },
+  { phrase: "Make It Happen" },
+  { phrase: "Embrace Change" },
+  { phrase: "Be Fearless" },
+  { phrase: "Work Hard" },
+  { phrase: "Think Positive" },
+  { phrase: "Shine Bright" },
+  { phrase: "Take Action" },
+  { phrase: "Stay Focused" },
+  { phrase: "Rise Above" },
+  { phrase: "Find Joy" },
+  { phrase: "Create Magic" },
+  { phrase: "Love Yourself" },
+  { phrase: "Chase Dreams" },
+  { phrase: "Live Boldly" },
+];
+
+export default Motivational;
